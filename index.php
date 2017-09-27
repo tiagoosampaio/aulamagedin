@@ -1,3 +1,5 @@
 <?php
 
 echo "Curso MagedIn!";
+
+?>
